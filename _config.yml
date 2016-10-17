@@ -1,4 +1,4 @@
 markdown: redcarpet
 permalink: pretty
-baseurl: /b2g7m.github.io/portfolio-xttrxction/
+baseurl: "https://b2g7m.github.io/portfolio-xttrxction"
 exclude: ['README.md']
