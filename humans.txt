@@ -1,0 +1,5 @@
+Hi there and thank you for visiting my website bellow is some more info about the site!
+
+Team: I was the only one working on this site!
+
+Technology: I use Sublime Text!

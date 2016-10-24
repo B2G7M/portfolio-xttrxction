@@ -1,0 +1,3 @@
+Sitemap: https://xttrxction.ca/sitemap.xml
+
+User-Agent: *
