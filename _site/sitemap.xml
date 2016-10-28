@@ -13,25 +13,26 @@
   </url>
 
   <!-- If you want to add another page, add another <url> tag -->
+
   <url>
     <loc>https://xttrxction.ca/</loc>
   </url>
- 
- <url>
+
+  <url>
     <loc>https://xttrxction.ca/trinkets/</loc>
- <url>
+  <url>
 
   <url>
     <loc>https://xttrxction.ca/contact/</loc>
   </url>
- 
- <url>
-    <loc>https://xttrxction.ca/secretpage1/</loc>
- <url>
 
- <url>
+  <url>
+    <loc>https://xttrxction.ca/secretpage1/</loc>
+  <url>
+
+  <url>
     <loc>https://xttrxction.ca/secretpage2/</loc>
- <url>
+  <url>
 
 
 </urlset>
