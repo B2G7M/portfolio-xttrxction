@@ -15,6 +15,10 @@ html {
   display: block;
 }
 
+.max-width {
+max-width: 20em;
+
+}
 /*  -webkit-animation: AnimationName 20s ease infinite;
   -moz-animation: AnimationName 20s ease infinite;
   -o-animation: AnimationName 20s ease infinite;
