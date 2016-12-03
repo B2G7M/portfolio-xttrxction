@@ -2529,8 +2529,8 @@ html {
   color: #040404;
   font-family: 'Space Mono', monospace;
 
-  background: linear-gradient(150deg, #fff, #d9d9d9);
-  background-size: 800% 800%;
+  /*background: linear-gradient(150deg, #fff, #d9d9d9);
+  background-size: 800% 800%;*/
 }
 
 .margin-zero {
@@ -2567,9 +2567,9 @@ max-width: 900px;
     100%{background-position:0% 28%}
 }*/
 
-.wrapper {
+/*.wrapper {
   margin: 0 auto;
-}
+}*/
 
 h1 {
   text-align: center;
@@ -2697,6 +2697,11 @@ nav {
 figure {
   margin: 0;
   padding: 0;
+}
+
+.FR {
+  float: right;
+  display: inline;
 }
 
 /*.polaroid > img {
