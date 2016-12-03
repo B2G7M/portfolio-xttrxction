@@ -2696,6 +2696,7 @@ nav {
 
 figure {
   margin: 0;
+  padding: 0;
 }
 
 /*.polaroid > img {
