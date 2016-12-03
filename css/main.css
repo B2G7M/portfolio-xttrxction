@@ -118,9 +118,9 @@ nav {
   position: absolute;
 }*/
 
-img {
-  max-width: 200px;
-  margin: 10px;
+.piece {
+  max-width: 300px;
+  margin: 1
   transition: 2s ease;
 }
 
@@ -166,6 +166,10 @@ img {
   z-index: 1000;
  /* box-shadow: 1px 1px 20px rgba(0, 0, 0, .3);*/
 
+}
+
+figure {
+  margin: 0;
 }
 
 /*.polaroid > img {
@@ -227,18 +231,6 @@ img {
   box-shadow: inset 0px 0px 4px #fff;
   color: #fff;
   background-color: #fff;
-}
-
-figure {
-  display: inline-block;
-  transition: 800ms ease-in-out;
-  color: #fff;
-}
-
-figure:hover {
-  display: inline-block;
-  color: #4d4d4d;
-
 }
 
 /*default black*/
