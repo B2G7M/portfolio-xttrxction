@@ -2567,9 +2567,10 @@ max-width: 900px;
     100%{background-position:0% 28%}
 }*/
 
-/*.wrapper {
+.wrapper {
   margin: 0 auto;
-}*/
+  max-width: 70em;
+}
 
 h1 {
   text-align: center;
