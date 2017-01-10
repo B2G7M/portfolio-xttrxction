@@ -2669,12 +2669,13 @@ nav {
 /*contact me image sizes*/
 
 .telus {
-  padding-top: 1em;
-  width: 100%;
+  max-width: 9em;
+  padding-bottom: 3em;
 }
 
 .srs {
   max-width: 6em;
+
 }
 
 .capitalone {
@@ -2686,7 +2687,11 @@ nav {
 }
 
 .macadamian {
-  max-width: 10em;
+  max-width: 9em;
+}
+
+.cea {
+  max-width: 9em;
 }
 
 .contactimg {
