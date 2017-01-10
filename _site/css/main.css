@@ -136,6 +136,44 @@ nav {
   fill: #000;
 }
 
+/*contact me image sizes*/
+
+.telus {
+  padding-top: 1em;
+
+}
+
+.srs {
+  max-width: 6em;
+  sa
+}
+
+.capitalone {
+  max-height: 3em;
+}
+
+.xirrus {
+  max-height: 3em;
+}
+
+.contactimg {
+  filter: none;
+  -webkit-filter: grayscale(100%);
+  -moz-filter:    grayscale(100%);
+  -ms-filter:     grayscale(100%);
+  -o-filter:      grayscale(100%);
+  cursor: pointer;
+  transition: all 300ms ease;
+  align-items: center;
+}
+.contactimg:hover {
+  filter: none;
+  -webkit-filter: grayscale(0%);
+  -moz-filter:    grayscale(0%);
+  -ms-filter:     grayscale(0%);
+  -o-filter:      grayscale(0%);
+}
+
 .galleryitem:hover {
     -ms-transform: rotate(4deg); /* IE 9 */
     -webkit-transform: rotate(4deg); /* Chrome, Safari, Opera */
@@ -287,6 +325,3 @@ figure {
   }
 
 }
-
-
-
