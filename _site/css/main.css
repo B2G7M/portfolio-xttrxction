@@ -140,12 +140,11 @@ nav {
 
 .telus {
   padding-top: 1em;
-
+  width: 100%;
 }
 
 .srs {
   max-width: 6em;
-  sa
 }
 
 .capitalone {
@@ -154,6 +153,10 @@ nav {
 
 .xirrus {
   max-height: 3em;
+}
+
+.macadamian {
+  max-width: 10em;
 }
 
 .contactimg {
