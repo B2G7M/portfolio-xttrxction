@@ -55,7 +55,7 @@ svg:not(:root) {
 
 svg {
   fill: currentColor;
-  stroke: currentColor;
+  /*stroke: currentColor;*/
 }
 
 .image-replacement, .ir {
@@ -2577,19 +2577,13 @@ max-width: 900px;
 }
 
 h1 {
-  text-align: center;
   font-weight: 400;
   margin: 0.5em 0 0.5em 0.5em;
-  /*color: #ff5c33;*/
-  color: #404040;
-  clear: none;
   display: inline;
   transition: 800ms ease;
 }
 
 h1:hover {
-  color: #f2f2f2;
-  text-shadow: 0px 0px 10px #040404;
 }
 
 .grey1 {
@@ -3645,6 +3639,10 @@ figure {
 .grey-op-20 {
   color: grey;
   opacity: .8;
+}
+
+.lightwhite {
+  color: #878787;
 }
 
 .grey {
