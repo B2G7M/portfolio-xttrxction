@@ -2581,6 +2581,7 @@ h1 {
   margin: 0.5em 0 0.5em 0.5em;
   display: inline;
   transition: 800ms ease;
+  text-align: center;
 }
 
 h1:hover {
