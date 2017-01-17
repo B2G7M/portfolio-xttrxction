@@ -2584,7 +2584,7 @@ max-width: 900px;
 }
 
 h1 {
-  font-weight: 400;
+  font-weight: normal;
   margin: 0.5em 0 0 0.5em;
   display: inline;
   transition: 800ms ease;
