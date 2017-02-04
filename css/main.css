@@ -295,6 +295,8 @@ figure {
 }
 
 /*a none for "earth" page links*/
+
+
 .none {
     text-decoration: none;
     /*color: #ff704d;*/
@@ -305,9 +307,7 @@ figure {
 }
 
 .none:hover {
-  box-shadow: inset 0px 0px 4px #fff;
-  color: #fff;
-  background-color: #fff;
+  opacity: .5;
 }
 
 /*default black*/
